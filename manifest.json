@@ -1,0 +1,11 @@
+{
+  "id": "animeav1-fixed",
+  "name": "AnimeAV1 Fixed",
+  "version": "1.0.0",
+  "language": "typescript",
+  "type": "onlinestream-provider",
+  "description": "Online streaming provider para AnimeAV1 (sub/dub español)",
+  "author": "TuNombre",
+  "lang": "es",
+  "payloadURI": "https://raw.githubusercontent.com/6enux/anime-av1/refs/heads/main/main.ts"
+}
